@@ -1,4 +1,4 @@
-# Model-on-MNIST-datasets
+# Multi-Columns-on-MNIST
 
 In this repository, I'm going to implement a model for detect handwriting digits on MNIST datasets.
 
